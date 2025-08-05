@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
 Interactive tic-tac-toe
+https://anishsharma217.github.io/tic-tac-toe
 
 # To start the game on local
 
@@ -11,3 +12,7 @@ Interactive tic-tac-toe
 - Node.js v22.18.0
 - npm 10.9.3
 - React ^18.1.0
+
+## Deploy to gh pages
+
+`npm run deploy`
